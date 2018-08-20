@@ -4,6 +4,8 @@ Since youtube has released 'Youtube Premium', I had to move my playlist into You
 
 This python script (not very kind. You should do all manually.) will extract singer, song title from google music's playlist.
 
+And also, I'll share my playlist in this repo :)
+
 ## HOW TO USE
 
 1. go to your google music playlist
